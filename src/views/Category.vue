@@ -15,7 +15,7 @@
 
 <script>
 import axios from 'axios'
-import {toast} from 'bulma-toast'
+import { toast } from 'bulma-toast'
 
 import ProductBox from '@/components/ProductBox'
 
